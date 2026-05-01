@@ -1,0 +1,12 @@
+{
+  "hash": "1800619130",
+  "content": {
+    "TEXT": {
+      "signIn": "Sign in",
+      "signUp": "Sign up",
+      "profileDetails": "Profile details",
+      "privacyPolicy": "Privacy Policy",
+      "termsOfService": "Terms of Service"
+    }
+  }
+}
