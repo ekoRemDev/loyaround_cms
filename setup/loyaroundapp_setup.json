@@ -1,0 +1,89 @@
+{
+  "appConfig": {
+    "lastUpdated": "2025-05-21T10:30:00Z",
+    "configVersion": "1.2.0"
+  },
+  "appVersion": {
+    "current": {
+      "ios": "1.4.2",
+      "android": "1.4.1"
+    },
+    "minimum": {
+      "ios": "0.1.0",
+      "android": "0.1.0"
+    },
+    "latest": {
+      "ios": "1.4.2",
+      "android": "1.4.2"
+    }
+  },
+  "forceAppUpdate": {
+    "enabled": false,
+    "ios": {
+      "forceUpdate": false,
+      "minimumVersion": "0.1.0",
+      "recommendedVersion": "1.4.2",
+      "updateMessage": "A new version is available with bug fixes and improvements.",
+      "forceUpdateMessage": "This version is no longer supported. Please update to continue using the app.",
+      "appStoreUrl": "https://apps.apple.com/app/your-app/id123456789"
+    },
+    "android": {
+      "forceUpdate": false,
+      "minimumVersion": "0.1.0",
+      "recommendedVersion": "1.4.2",
+      "updateMessage": "A new version is available with bug fixes and improvements.",
+      "forceUpdateMessage": "This version is no longer supported. Please update to continue using the app.",
+      "playStoreUrl": "https://play.google.com/store/apps/details?id=com.yourcompany.yourapp"
+    }
+  },
+  "supportedLanguages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "isDefault": true,
+      "isRTL": false,
+      "flag": "🇺🇸"
+    },
+    {
+      "code": "ka",
+      "name": "Georgian",
+      "nativeName": "ქართული",
+      "isDefault": false,
+      "isRTL": false,
+      "flag": "🇬🇪"
+    },
+    {
+      "code": "ru",
+      "name": "Russian",
+      "nativeName": "Русский",
+      "isDefault": false,
+      "isRTL": false,
+      "flag": "🇷🇺"
+    },
+    {
+      "code": "es",
+      "name": "Spanish",
+      "nativeName": "Español",
+      "isDefault": false,
+      "isRTL": false,
+      "flag": "🇪🇸"
+    },
+    {
+      "code": "fr",
+      "name": "French",
+      "nativeName": "Français",
+      "isDefault": false,
+      "isRTL": false,
+      "flag": "🇫🇷"
+    },
+    {
+      "code": "de",
+      "name": "German",
+      "nativeName": "Deutsch",
+      "isDefault": false,
+      "isRTL": false,
+      "flag": "🇩🇪"
+    }
+  ]
+}
