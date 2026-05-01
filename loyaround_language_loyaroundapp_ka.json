@@ -2,11 +2,11 @@
   "hash": "1800619130",
   "content": {
     "TEXT": {
-      "signIn": "Sign in",
-      "signUp": "Sign up",
-      "profileDetails": "Profile details",
-      "privacyPolicy": "Privacy Policy",
-      "termsOfService": "Terms of Service"
+      "signIn": "ka.Sign in",
+      "signUp": "ka.Sign up",
+      "profileDetails": "ka.Profile details",
+      "privacyPolicy": "ka.Privacy Policy",
+      "termsOfService": "ka.Terms of Service"
     }
   }
 }
