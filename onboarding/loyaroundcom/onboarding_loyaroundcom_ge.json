@@ -1,22 +1,22 @@
 {
   "content" :[
     {
-      "title": "Discover Rewards,\nEmbrace Loyalty",
+      "title": "Grow Loyalty,\nGrow Your Business",
       "subtitle":
-          "Unlock exclusive perks, earn points effortlessly,\nand indulge in a world of personalized rewards.\nWelcome to Loyaround!",
-          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_1.png"
+      "Attract new customers, reward repeat visits,\nand build lasting relationships.\nWelcome to Loyaround for Vendors!",
+      "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_1.png"
     },
     {
-      "title": "Earn Points, Enjoy\nRewards",
+      "title": "Create Rewards,\nEngage Customers",
       "subtitle":
-          "Snap receipts, complete surveys, and more.\nElevate your loyalty journey with every action.\nStart earning, start enjoying!",
-          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_2.png"
+      "Launch offers, award points, and track\ncustomer engagement in real time.\nTurn every visit into loyalty.",
+      "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_2.png"
     },
     {
-      "title": "Tailor Your Rewards\nExperience",
+      "title": "Manage Loyalty\nYour Way",
       "subtitle":
-          "Convert points, redeem vouchers, and climb\ntiers. Your loyalty, your way. Begin your\npersonalized rewards journey with Loyaround!",
-          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_3.png"
+      "Customize campaigns, analyze insights, and\nscale your rewards strategy with ease.\nEmpower your brand with Loyaround.",
+      "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_3.png"
     }
   ]
 }
