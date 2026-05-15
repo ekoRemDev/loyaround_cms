@@ -1,0 +1,22 @@
+{
+  "content" :[
+    {
+      "title": "Discover Rewards,\nEmbrace Loyalty",
+      "subtitle":
+          "Unlock exclusive perks, earn points effortlessly,\nand indulge in a world of personalized rewards.\nWelcome to Loyaround!",
+          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_1.png"
+    },
+    {
+      "title": "Earn Points, Enjoy\nRewards",
+      "subtitle":
+          "Snap receipts, complete surveys, and more.\nElevate your loyalty journey with every action.\nStart earning, start enjoying!",
+          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_2.png"
+    },
+    {
+      "title": "Tailor Your Rewards\nExperience",
+      "subtitle":
+          "Convert points, redeem vouchers, and climb\ntiers. Your loyalty, your way. Begin your\npersonalized rewards journey with Loyaround!",
+          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_3.png"
+    }
+  ]
+}

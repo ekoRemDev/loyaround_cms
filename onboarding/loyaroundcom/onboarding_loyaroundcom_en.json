@@ -1,0 +1,22 @@
+{
+  "content" :[
+    {
+      "title": "row Loyalty,\\nGrow Your Business",
+      "subtitle":
+          "Attract new customers, reward repeat visits,\\nand build lasting relationships.\\nWelcome to Loyaround for Vendors!",
+          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_1.png"
+    },
+    {
+      "title": "Create Rewards,\\nEngage Customers",
+      "subtitle":
+          "Launch offers, award points, and track\\ncustomer engagement in real time.\\nTurn every visit into loyalty.",
+          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_2.png"
+    },
+    {
+      "title": "Manage Loyalty\\nYour Way",
+      "subtitle":
+          "Customize campaigns, analyze insights, and\\nscale your rewards strategy with ease.\\nEmpower your brand with Loyaround.",
+          "image": "assets/images/onboarding/loyaroundapp/loyaroundapp_onboarding_3.png"
+    }
+  ]
+}
