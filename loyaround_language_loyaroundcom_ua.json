@@ -201,7 +201,18 @@
       "purchaseFailed": "Покупка не вдалася. Спробуйте знову.",
       "purchasesRestored": "Покупки успішно відновлено!",
       "noActiveSubscriptions": "Активні підписки не знайдено.",
-      "restoreFailed": "Відновлення не вдалося. Спробуйте знову."
+      "restoreFailed": "Відновлення не вдалося. Спробуйте знову.",
+
+      "sendNotification": "Надіслати сповіщення",
+      "sendNotificationInfo": "Надішліть сповіщення всім вашим постійним клієнтам, які відвідали ваш магазин.",
+      "notificationTitle": "Заголовок",
+      "notificationMessage": "Повідомлення",
+      "enterTitle": "Введіть заголовок",
+      "enterMessage": "Введіть повідомлення",
+      "preview": "Попередній перегляд",
+      "notificationSent": "Сповіщення надіслано!",
+      "notificationSentMessage": "Ваше сповіщення надіслано всім постійним клієнтам.",
+      "notifyYourCustomers": "Сповістити клієнтів"
     }
   }
 }

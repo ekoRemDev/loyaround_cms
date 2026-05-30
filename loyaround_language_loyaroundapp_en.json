@@ -12,6 +12,7 @@
       "history": "History",
       "theme": "Theme",
       "pushNotifications": "Push Notifications",
+      "vendorNotifications": "Store Promotions",
       "designSystem": "Design System",
       "logout": "Logout",
       "logoutConfirmTitle": "Logout",

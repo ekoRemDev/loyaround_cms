@@ -201,7 +201,18 @@
       "purchaseFailed": "შეძენა ვერ მოხერხდა. სცადეთ თავიდან.",
       "purchasesRestored": "შეძენები წარმატებით აღდგა!",
       "noActiveSubscriptions": "აქტიური გამოწერები ვერ მოიძებნა.",
-      "restoreFailed": "აღდგენა ვერ მოხერხდა. სცადეთ თავიდან."
+      "restoreFailed": "აღდგენა ვერ მოხერხდა. სცადეთ თავიდან.",
+
+      "sendNotification": "შეტყობინების გაგზავნა",
+      "sendNotificationInfo": "გაუგზავნეთ შეტყობინება თქვენს ყველა ერთგულ მომხმარებელს, რომლებიც ეწვივნენ თქვენს მაღაზიას.",
+      "notificationTitle": "სათაური",
+      "notificationMessage": "შეტყობინება",
+      "enterTitle": "შეიყვანეთ სათაური",
+      "enterMessage": "შეიყვანეთ შეტყობინება",
+      "preview": "წინასწარი ნახვა",
+      "notificationSent": "შეტყობინება გაიგზავნა!",
+      "notificationSentMessage": "თქვენი შეტყობინება გაეგზავნა ყველა ერთგულ მომხმარებელს.",
+      "notifyYourCustomers": "მომხმარებლების შეტყობინება"
     }
   }
 }

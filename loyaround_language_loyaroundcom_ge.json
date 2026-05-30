@@ -201,7 +201,18 @@
       "purchaseFailed": "Kauf fehlgeschlagen. Bitte erneut versuchen.",
       "purchasesRestored": "Käufe erfolgreich wiederhergestellt!",
       "noActiveSubscriptions": "Keine aktiven Abonnements gefunden.",
-      "restoreFailed": "Wiederherstellung fehlgeschlagen. Bitte erneut versuchen."
+      "restoreFailed": "Wiederherstellung fehlgeschlagen. Bitte erneut versuchen.",
+
+      "sendNotification": "Benachrichtigung senden",
+      "sendNotificationInfo": "Senden Sie eine Push-Benachrichtigung an alle Ihre treuen Kunden, die Ihr Geschäft besucht haben.",
+      "notificationTitle": "Titel",
+      "notificationMessage": "Nachricht",
+      "enterTitle": "Titel eingeben",
+      "enterMessage": "Nachricht eingeben",
+      "preview": "Vorschau",
+      "notificationSent": "Benachrichtigung gesendet!",
+      "notificationSentMessage": "Ihre Benachrichtigung wurde an alle Ihre treuen Kunden gesendet.",
+      "notifyYourCustomers": "Kunden benachrichtigen"
     }
   }
 }

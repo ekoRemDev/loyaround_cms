@@ -201,7 +201,18 @@
       "purchaseFailed": "Purchase failed. Please try again.",
       "purchasesRestored": "Purchases restored successfully!",
       "noActiveSubscriptions": "No active subscriptions found.",
-      "restoreFailed": "Restore failed. Please try again."
+      "restoreFailed": "Restore failed. Please try again.",
+
+      "sendNotification": "Send Notification",
+      "sendNotificationInfo": "Send a push notification to all your loyal customers who have visited your store.",
+      "notificationTitle": "Title",
+      "notificationMessage": "Message",
+      "enterTitle": "Enter notification title",
+      "enterMessage": "Enter notification message",
+      "preview": "Preview",
+      "notificationSent": "Notification Sent!",
+      "notificationSentMessage": "Your notification has been sent to all your loyal customers.",
+      "notifyYourCustomers": "Notify Customers"
     }
   }
 }
